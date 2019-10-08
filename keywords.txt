@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For RossumNHD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NHDSerial	KEYWORD1	NHDSerial
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+print	KEYWORD2
+printAuto	KEYWORD2
+print_auto	KEYWORD2
+printAutoH	KEYWORD2
+print_auto_h	KEYWORD2
+setCursor	KEYWORD2
+set_cursor	KEYWORD2
+cursor	KEYWORD2
+noCursor	KEYWORD2
+no_cursor	KEYWORD2
+blink	KEYWORD2
+noBlink	KEYWORD2
+no_blink	KEYWORD2
+display	KEYWORD2
+noDisplay	KEYWORD2
+no_display	KEYWORD2
+autoscroll	KEYWORD2
+auto_scroll	KEYWORD2
+noAutoscroll	KEYWORD2
+no_auto_scroll	KEYWORD2
+leftToRight	KEYWORD2
+left_to_right	KEYWORD2
+rightToLeft	KEYWORD2
+right_to_left	KEYWORD2
+scrollDisplayLeft	KEYWORD2
+scroll_display_left	KEYWORD2
+scrollDisplayRight	KEYWORD2
+scroll_display_right	KEYWORD2    
+createChar	KEYWORD2
+create_char	KEYWORD2
+
+
+regulate	KEYWORD2
+regulateOff	KEYWORD2
+regulate_off	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
