@@ -5,12 +5,4 @@ Made for Arduino communication with New Haven Displays OLEDs / US2066 controller
 For more information about this library please visit us at
 https://www.awesomerossum.com/NHD
 
-== License ==
-
-Unoffically copyrighted I suppose. 
-
-Keep my name, information, and refrences on it; I need the cred.
-
-No warranty! If your governing body requires a warranty be provided do not use this!
-
 
