@@ -2,7 +2,3 @@
 
 Made for Arduino communication with New Haven Displays OLEDs / US2066 controller.
 
-For more information about this library please visit us at
-https://www.awesomerossum.com/NHD
-
-
